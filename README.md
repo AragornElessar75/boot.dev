@@ -7,6 +7,9 @@ BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 Course passed on [Boot.dev](https://www.boot.dev)
 
+Number 5
+[![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/45f56274-3d96-4368-a2ba-a88519fbb716.jpeg?v=1793017559)](https://www.boot.dev/certificates/45f56274-3d96-4368-a2ba-a88519fbb716)
+
 Number 4 
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/edba2989-acc0-41d0-ab93-8965dec1e775.jpeg?v=1791288531)](https://www.boot.dev/certificates/edba2989-acc0-41d0-ab93-8965dec1e775)
 
